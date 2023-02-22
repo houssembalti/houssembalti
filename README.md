@@ -1,3 +1,8 @@
+ <div align="center">
+ <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" width="460"/> <br>
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on a Healthcare web application <br>🌱 I’m currently learning Mern stack and python<br>✉️ You can contact me at houssem.balti@esprit.tn<br>
 
