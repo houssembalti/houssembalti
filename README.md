@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Tunisia<br>🌱 I’m currently learning Mern stack and python<br>✉️ You can contact me at houssem.balti@esprit.tn<br>
+🔭 I’m currently working on a Healthcare web application <br>🌱 I’m currently learning Mern stack and python<br>✉️ You can contact me at houssem.balti@esprit.tn<br>
 
 
 
@@ -16,4 +16,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/houssem-balti-645815110/) 
+<div align="center">
+<a href="https://github.com/houssembalti">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:houssem.balti@esprit.tn">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/houssem-balti-645815110/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>      
+</div>
